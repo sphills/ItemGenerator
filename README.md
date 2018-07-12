@@ -14,6 +14,6 @@ The rarity and prefix of a piece of loot is determined dynamically upon being sp
 
 The characters don't have a limit for how many items they can hold, so be wary of how many you spawn and loot!
 
-The character model, its textures, and the textures of the walls and floor were pre-existing assets produced by the team at Epic Games.
+The character model, its textures, and the textures of the floor were pre-existing assets produced by the team at Epic Games.
 
 The inventory and weapon class objects were created by me in-engine. All Blueprint scripting written by me.
